@@ -8,7 +8,8 @@
 // ========================================
 
 // GAS Web AppのURLをここに設定
-const API_BASE_URL = 'https://script.google.com/a/macros/neophilia.jp/s/AKfycbxAyn5pj-X79mvdLPWiCfXMErLKxV6WJajC5Nfig-GXEYQUsfKyl5n2LEjOj0szBV7a/exec';
+const API_BASE_URL = 'https://script.google.com/macros/s/AKfycbxAyn5pj-X79mvdLPWiCfXMErLKxV6WJajC5Nfig-GXEYQUsfKyl5n2LEjOj0szBV7a/exec';
+
 
 // ========================================
 // グローバル変数
